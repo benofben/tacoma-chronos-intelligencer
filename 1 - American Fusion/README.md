@@ -53,36 +53,3 @@ Keith led Aaron down a crushed rock path looping around the BC.  As they neared 
 “Helium production is actually a big unexpected boon that way.  Up until the 2020’s the government actually had a strategic helium reserve.  That’s down to the stuff being both in short supply and irreplaceable.  Once mined, it has a tendency to float away into the upper atmosphere, never to be seen again.”
 
 safety
-
-## A Fish in Water
-
-Salton sea, fusion refil
-
-With the invention of fusion, it was possible to refill the Salton Sea.  The Dead Sea became less dead.
-
-## Floating Free
-
-Protagonist is lawnchair larry, touring the new world?
-
-Space
-
-Builds to high altitude.  Launch from floating platforms.
-
-Helium
-
-Hydrogen
-
-Bucky balls with hydrogen / vacuum
-
-## Poverty
-
-Zero sum
-Distribution
-
-## Commuting
-As
-
-## Housing Construction
-Asd
-
-https://comingdownthepipe.blogspot.com/
