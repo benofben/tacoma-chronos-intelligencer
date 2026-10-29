@@ -1,5 +1,7 @@
 # American Fusion
 
+The image cut to Aaron standing in a somewhat barren field with another man.
+
 “Today, we’re outside of Richmond, Washington, meeting with Keith P. Apple, an engineer at Endless Energy.  Keith, can you tell us what we’re looking at?”
 
 “Behind us is Boston Cream, sometimes referred to as BC.  It’s the largest fusion reactor west of the Mississippi.”
