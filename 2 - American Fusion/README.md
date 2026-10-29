@@ -1,17 +1,5 @@
 # American Fusion
 
-## Introduction
-
-The television show opened with a voice over images of fires, riots, forests being cut:  “This is not the future I was promised… poverty, homeless camps, zero sum environmentalism, a collapsing industrial base and nationalism resurgent.”
-
-Images of economic collapse faded, replaced by a well dressed man – khaki suit, matching blue tie and pocket square, wearing a felt fedora.  His voice was deep, reassuring…  He sat at a desk, the image of Earthrise behind him.  The man’s appearance was curated, a conscious callback to the golden era of broadcast news.
-
-He continued:  “The future I was promised has Pan Am flights to the moon, floating cities, the elimination of poverty, a virtual Coney Island of the Mind!”
-
-“My name is Aaron Brownfoot.  I’ll introduce you to the builders, the visionaries and the artists who are making our future possible.”  The image cut to Aaron standing in a somewhat barren field with another man.
-
-## Episode
-
 “Today, we’re outside of Richmond, Washington, meeting with Keith P. Apple, an engineer at Endless Energy.  Keith, can you tell us what we’re looking at?”
 
 “Behind us is Boston Cream, sometimes referred to as BC.  It’s the largest fusion reactor west of the Mississippi.”

@@ -114,7 +114,7 @@ There are chairs and a coffee table.
 
 # 16
 
-Abe and Ellie are sitting on chairs with a coffee table in between them.
+Abe and Ellie are sitting in that room.
 
 Abe - Pops was inspired by Wright.  He loved Falling Water.  Though his favorite house was the Hanna–Honeycomb House.  The style here is based on that.
 
