@@ -54,7 +54,7 @@ That's why my dad got the idea for the sky house.  He found a weird old lot in P
 
 ## 7
 
-Abe - Then he poured concrete in it and stuck in this great big eyebolt we see here.
+Abe - Then he poured a concrete block on the lot.
 
 Ellie - How much does the block weigh?
 
@@ -72,29 +72,56 @@ Abe - We'll, I don't want to keep you waiting.  Let's go up!
 
 Ellie - Sounds great.
 
+They step into the large wicker basket.  
+
 ## 10
 
-They step into a large wicker basket like would be for a hot air balloon.  
+They're both in the basket now, still on the ground as before.
 
-## 11
-
-Abe - The controls are pretty simple.  Green button is up.  Red is down.  Right now Dawn Floater is at about 5000 feet, above the marine layer we have today.  I bet it's nice up there.
+Abe - The controls are pretty simple.  Green button is up.  Red is down.  Right now Dawn Floater is at about 5000 feet.  It's above the marine layer we have today.  I bet it's nice up there.
 
 ## 12
 
-The basket is pulled up and up.  A view of Tacoma is visible.
+They're now in the basket.  The basket is pulled up and up.  A view of Tacoma is visible.
 
 As they rise, the view disappears and becomes clouds only.
 
+Then they emerge into a sunny day above the marine layer.  
+
 ## 13
 
-Then they emerge.  The dawnfloater is above them.  It's geodesic bubbles made of wood and glass.  Another line extends from it with giant weather balloons disappearing into the distance.
+Generate an image of the Dawn Floater.  It's geodesic bubbles made of wood and glass ringer by a wooden deck.  Another line extends from its top with giant weather balloons disappearing into the distance.
 
-## 14
+Create a video with the voice over:
 
 Ellie - It's beautful.  So rustic.
 
+Abe - Yep.  It's inspired by Buckminster Fuller.  He was a futurist back in the 1970s. My dad loved his stuff.  Bucky wrote about building cities light enough to float away.  That inspired pops.
+
 ## 15
 
-Abel - Yep.  It's inspired by Buckminster Fuller.  He was a futurist back in the 1970s. My dad loved his stuff.  Bucky wrote about building cities light enough to float away.  That inspired pops.
+They're on the deck now.  The house, geodesic bubbles of wood and glass is behind them.
 
+Abe - Let's go take a look!
+
+Ellie follows Abe toward the house.  
+
+# 16
+
+Generate an image from inside the dome.  It is a wood and glass sitting room reminiscent of Frank Lloyd Wright's style with dark red and wood.  The interior looks like the Hanna Honeycomb House designed by Frank Lloyd Wright.  Though, it has the wood and glass geodesic dome we saw from the outside.
+
+There are chairs and a coffee table.
+
+# 16
+
+Abe and Ellie are sitting on chairs with a coffee table in between them.
+
+Abe - Pops was inspired by Wright.  He loved Falling Water.  Though his favorite house was the Hanna–Honeycomb House.  The style here is based on that.
+
+Ellie - It's lovely.
+
+# 17 
+
+Abe - Yeah, I love to just sit here in the sun and read.
+
+Ellie - Well, thanks so much for sharing this precious space.  And, viewers, join us next week to see where the future will take us!

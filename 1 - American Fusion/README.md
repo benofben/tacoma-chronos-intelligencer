@@ -1,6 +1,6 @@
-# The Future I was Promised
+# American Fusion
 
-## American Fusion
+## Introduction
 
 The television show opened with a voice over images of fires, riots, forests being cut:  “This is not the future I was promised… poverty, homeless camps, zero sum environmentalism, a collapsing industrial base and nationalism resurgent.”
 
@@ -9,6 +9,8 @@ Images of economic collapse faded, replaced by a well dressed man – khaki suit
 He continued:  “The future I was promised has Pan Am flights to the moon, floating cities, the elimination of poverty, a virtual Coney Island of the Mind!”
 
 “My name is Aaron Brownfoot.  I’ll introduce you to the builders, the visionaries and the artists who are making our future possible.”  The image cut to Aaron standing in a somewhat barren field with another man.
+
+## Episode
 
 “Today, we’re outside of Richmond, Washington, meeting with Keith P. Apple, an engineer at Endless Energy.  Keith, can you tell us what we’re looking at?”
 
@@ -52,4 +54,10 @@ Keith led Aaron down a crushed rock path looping around the BC.  As they neared 
 
 “Helium production is actually a big unexpected boon that way.  Up until the 2020’s the government actually had a strategic helium reserve.  That’s down to the stuff being both in short supply and irreplaceable.  Once mined, it has a tendency to float away into the upper atmosphere, never to be seen again.”
 
-safety
+"The surplus of Helium has led to myriad uses, including heavy lift airships and sky houses."
+
+"Meanwhile, the power generation from these plants has eliminated energy scarcity.  That's had knock on effects in water, transport and food."
+
+"Thanks so much for the introduction.  We really appreciate your time."
+
+"Thank you.  Hope to see you again.  We always happt to give more detailed tours."
